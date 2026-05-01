@@ -44,7 +44,7 @@ Todo Board enables users to:
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/jayant-dixit/To-do-Board.git
+git clone https://github.com/vaibhavsharma2108/Task-Manager.git
 cd todo-board
 ```
 
@@ -138,6 +138,5 @@ Implemented in editTask:
 
 ## Live Demo
 
-- Website : https://todoboard-phi.vercel.app/
-- Demo Video: https://drive.google.com/file/d/1ifYvFi_3B3LZnU4JB_BaOkpr-OacoiAb/view?usp=sharing
+- Website : https://task-manager-blush-nine-55.vercel.app/
 
